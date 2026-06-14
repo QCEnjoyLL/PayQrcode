@@ -2,7 +2,7 @@
   <header class="header">
     <section class="main">
       <h1>
-        <img src="./assets/images/logo.webp" />
+        <img src="./assets/images/orange.png" />
         PayQrcode
       </h1>
       <h2>二合一收款码物理合并版</h2>
@@ -20,10 +20,6 @@
             target="_blank"
           >
             PayQrcode
-          </t-link>
-          ，技术支持：
-          <t-link theme="primary" underline href="https://www.vvhan.com" target="_blank">
-            韩小韩博客
           </t-link>
         </template>
       </t-alert>
